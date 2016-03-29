@@ -1,0 +1,70 @@
+.header {
+    text-align: center;
+    font-family: monospace;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 23px;
+    color: #797979;
+}
+
+.button-container {
+}
+
+.content-container {
+    width: 100%;
+    float: left;
+}
+
+.blog {
+    float: left;
+}
+
+.content {
+    float: right;
+}
+
+.button:hover {
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    opacity: 1;
+    background-color: #d7d7d7
+}
+
+.button {
+    width: 25%;
+    height: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    float: left;
+    text-align: center;
+}
+
+.red {
+    -webkit-transition: 1.3s;
+    transition: 1.3s;
+    opacity: 1;
+    background-color: #c82e43
+}
+
+.blue {
+    -webkit-transition: 1.3s;
+    transition: 1.3s;
+    opacity: 1;
+    background-color: #7775e2
+}
+
+.green {
+    -webkit-transition: 1.3s;
+    transition: 1.3s;
+    opacity: 1;
+    background-color: #3cb972
+}
+
+.yellow {
+    -webkit-transition: 1.3s;
+    transition: 1.3s;
+    opacity: 1;
+    background-color: #e8e700
+}
